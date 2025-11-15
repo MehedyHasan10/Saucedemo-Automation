@@ -11,7 +11,7 @@ This project automates a user scenario on the [SauceDemo](https://www.saucedemo.
 ## Tech Stack
 - Node.js  
 - Playwright  
-- JavaScript / TypeScript  
+- JavaScript
 - Page Object Model  
 - Allure for test reporting  
 - Screenshots captured on test failure  

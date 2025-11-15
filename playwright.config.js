@@ -2,10 +2,10 @@ import { defineConfig, devices } from "@playwright/test";
 
 export default defineConfig({
   use: {
-    headless: false, // show browser
-    viewport: null,  // null means use the full available screen size
+    headless: false, 
+    viewport: null,  
     launchOptions: {
-      args: ["--start-maximized"], // start browser maximized
+      args: ["--start-maximized"], 
     },
   },
   reporter: [

@@ -1,0 +1,7 @@
+/node_modules
+/allure-results
+/allure-report
+/playwright-report
+/test-results
+package-lock.json
+playwright.config.js
